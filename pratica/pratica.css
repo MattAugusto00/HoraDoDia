@@ -1,0 +1,27 @@
+body{
+  background-color: blueviolet;
+}
+
+header{
+  text-align: center;
+}
+
+section{
+  color: black;
+  border-radius: 7px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  box-shadow: 5px 5px 120px white;
+}
+
+section div img{
+  width: 500px;
+  height: 500px;
+}
+
+footer{
+  text-align: center;
+  font-style: italic;
+}
